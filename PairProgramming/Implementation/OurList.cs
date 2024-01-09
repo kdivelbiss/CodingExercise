@@ -1,7 +1,7 @@
 ﻿namespace Implementation
 {
     /// <summary>
-    /// Create a class behaves as a list of integers.  Only use primitive types such as an array (int{}).
+    /// Create a class that behaves as a list of integers.  Only use primitive types such as an array (int[]).
     /// Implement the properties/methods below.  
     /// </summary>
     public class OurList
